@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="euskaraArray">
+        <item>adiskide</item> <item>friend</item>
+        <item>aita</item> <item>father</item>
+        <item>alaba</item> <item>daughter</item>
+        <item>ama</item> <item>mother</item>
+        <item>andre</item> <item>lady</item>
+        <item>apaiz</item> <item>priest</item>
+        <item>ardo</item> <item>wine</item>
+        <item>argi</item> <item>light; daylight</item>
+        <item>begi</item> <item>eye</item>
+        <item>behi</item> <item>cow</item>
+        <item>bihotz</item> <item>heart</item>
+        <item>buru</item> <item>head</item>
+        <item>diru</item> <item>money</item>
+        <item>egun</item> <item>day</item>
+        <item>eliza</item> <item>church</item>
+        <item>emakume</item> <item>woman</item>
+        <item>emazte</item> <item>wife</item>
+        <item>esku</item> <item>hand</item>
+        <item>etsai</item> <item>enemy</item>
+        <item>etxe</item> <item>house</item>
+        <item>gau</item> <item>night</item>
+        <item>gizon</item> <item>man</item>
+        <item>gona</item> <item>skirt</item>
+        <item>haur</item> <item>child</item>
+        <item>ibai</item> <item>river</item>
+        <item>ijito</item> <item>gypsy</item>
+        <item>izar</item> <item>star</item>
+        <item>jabe</item> <item>owner</item>
+        <item>jaun</item> <item>sir</item>
+        <item>kafe</item> <item>coffee</item>
+        <item>katu</item> <item>cat</item>
+        <item>ke</item> <item>smoke</item>
+        <item>lan</item> <item>work</item>
+        <item>liburu</item> <item>book</item>
+        <item>lore</item> <item>flower</item>
+        <item>mendi</item> <item>mountain</item>
+        <item>mutil</item> <item>boy</item>
+        <item>nagusi</item> <item>boss</item>
+        <item>neskatxa</item> <item>girl</item>
+        <item>ogi</item> <item>(loaf of) bread</item>
+        <item>oilo</item> <item>chicken</item>
+        <item>oin</item> <item>foot</item>
+        <item>sagar</item> <item>apple</item>
+        <item>sagu</item> <item>mouse</item>
+        <item>seme</item> <item>son</item>
+        <item>sorgin</item> <item>witch</item>
+        <item>su</item> <item>fire</item>
+        <item>txakur</item> <item>dog</item>
+        <item>txerri</item> <item>pig</item>
+        <item>ur</item> <item>water</item>
+        <item>urte</item> <item>year</item>
+        <item>zaldi</item> <item>horse</item>
+        <item>zezen</item> <item>bull</item>
+        <item>zur</item> <item>wood</item>
+        <item>argi</item> <item>clear; bright</item>
+        <item>beltz</item> <item>black</item>
+        <item>bero</item> <item>hot; warm</item>
+        <item>berri</item> <item>new</item>
+        <item>bete</item> <item>full</item>
+        <item>eder</item> <item>beautiful</item>
+        <item>garbi</item> <item>clean; pure</item>
+        <item>garesti</item> <item>expensive</item>
+        <item>gorri</item> <item>red</item>
+        <item>goxo</item> <item>tasty; delicious</item>
+        <item>gozo</item> <item>sweet</item>
+        <item>handi</item> <item>big; large; great</item>
+        <item>hotz</item> <item>cold</item>
+        <item>ilun</item> <item>dark</item>
+        <item>isil</item> <item>silent; quiet</item>
+        <item>itsusi</item> <item>ugly</item>
+        <item>labur</item> <item>short</item>
+        <item>luze</item> <item>long</item>
+        <item>maite</item> <item>dear; beloved</item>
+        <item>merke</item> <item>cheap</item>
+        <item>on</item> <item>good</item>
+        <item>polit</item> <item>pretty</item>
+        <item>txar</item> <item>bad</item>
+        <item>txiki</item> <item>small; little</item>
+        <item>zahar</item> <item>old</item>
+        <item>zuri</item> <item>white</item>
+        <item>aski</item> <item>enough</item>
+        <item>asko</item> <item>many; much</item>
+        <item>bai</item> <item>yes</item>
+        <item>baina</item> <item>but</item>
+        <item>da</item> <item>(he, she, it) is</item>
+        <item>dira</item> <item>(they) are</item>
+        <item>ere</item> <item>also; even</item>
+        <item>eta</item> <item>and</item>
+        <item>ez</item> <item>not, no</item>
+        <item>gaur</item> <item>today</item>
+        <item>gutxi</item> <item>few</item>
+        <item>hemen</item> <item>here</item>
+        <item>inor</item> <item>anybody</item>
+        <item>nor</item> <item>who</item>
+        <item>oso</item> <item>whole; very</item>
+        <item>txit</item> <item>very</item>
+        <item>zenbat</item> <item>how many; how much</item>
+        <item>zer</item> <item>what</item>
+        <item>zerbait</item> <item>something</item>
+        <item>bat</item> <item>one</item>
+        <item>bi</item> <item>two</item>
+        <item>hirur</item> <item>three</item>
+        <item>laur</item> <item>four</item>
+        <item>bost</item> <item>five</item>
+        <item>sei</item> <item>six</item>
+        <item>zazpi</item> <item>seven</item>
+        <item>zortzi</item> <item>eight</item>
+        <item>bederatzi</item> <item>nine</item>
+        <item>hamar</item> <item>ten</item>
+        <item>hamaika</item> <item>eleven</item>
+        <item>hamabi</item> <item>twelve</item>
+        <item>hamahirur</item> <item>thirteen</item>
+        <item>hamalaur</item> <item>fourteen</item>
+        <item>hamabost</item> <item>fifteen</item>
+        <item>hamasei</item> <item>sixteen</item>
+        <item>hamazazpi</item> <item>seventeen</item>
+        <item>hemezortzi</item> <item>eighteen</item>
+        <item>hemeretzi</item> <item>nineteen</item>
+        <item>hogei</item> <item>twenty</item>
+        <item>hogeita bat</item> <item>twenty-one</item>
+        <item>hogeita hamar</item> <item>thirty</item>
+        <item>hogeita hamaika</item> <item>thirty-one</item>
+        <item>berrogei</item> <item>forty</item>
+        <item>berrogeita bat</item> <item>forty-one</item>
+        <item>berrogeita hamar</item> <item>fifty</item>
+        <item>hirurogei</item> <item>sixty</item>
+        <item>hirurogeita hamar</item> <item>seventy</item>
+        <item>laurogei</item> <item>eighty</item>
+        <item>laurogeita hamar</item> <item>ninety</item>
+        <item>laurogeita hemeretzi</item> <item>ninety-nine</item>
+        <item>ehun</item> <item>one hundred</item>
+        <item>ehun eta bat</item> <item>one hundred and one</item>
+        <item>ehun eta laurogeita hemeretzi</item> <item>one hundred and ninety-nine</item>
+        <item>berrehun</item> <item>two hundred</item>
+        <item>hirurehun</item> <item>three hundred</item>
+        <item>laurehun</item> <item>four hundred</item>
+        <item>bostehun</item> <item>five hundred</item>
+        <item>seiehun</item> <item>six hundred</item>
+        <item>zazpiehun</item> <item>seven hundred</item>
+        <item>zortziehun</item> <item>eight hundred</item>
+        <item>bederatziehun</item> <item>nine hundred</item>
+        <item>mila</item> <item>thousand</item>
+        <item>mila eta ehun</item> <item>one thousand, one hundred</item>
+        <item>mila eta berrehun</item> <item>one thousand, two hundred</item>
+        <item>bi mila</item> <item>two thousand</item>
+        <item>hamar mila</item> <item>ten thousand</item>
+        <item>ehun mila</item> <item>one hundred thousand</item>
+        <item>milioi bat</item> <item>one million</item>
+        <item>miliar bat</item> <item>one billion</item>
+        <item>aho</item> <item>mouth</item>
+        <item>aitona</item> <item>grandfather</item>
+        <item>alkate</item> <item>mayor</item>
+        <item>amona</item> <item>grandmother</item>
+        <item>anitz</item> <item>many; much</item>
+        <item>apur bat</item> <item>a little; a bit</item>
+        <item>arratsalde</item> <item>afternoon</item>
+        <item>arrisku</item> <item>danger</item>
+        <item>bakoitz</item> <item>each</item>
+        <item>baso</item> <item>drinking glass</item>
+        <item>bekatu</item> <item>sin</item>
+        <item>beldur</item> <item>fear</item>
+        <item>bide</item> <item>way; road</item>
+        <item>egia</item> <item>truth</item>
+        <item>eguzki</item> <item>sun</item>
+        <item>errege</item> <item>king</item>
+        <item>gauez</item> <item>by night</item>
+        <item>gazte</item> <item>young; youngster</item>
+        <item>ilargi</item> <item>moon</item>
+        <item>izeba</item> <item>aunt</item>
+        <item>kale</item> <item>street</item>
+        <item>lo</item> <item>sleep</item>
+        <item>lotsa</item> <item>shame</item>
+        <item>nahikoa</item> <item>enough</item>
+        <item>negu</item> <item>winter</item>
+        <item>odol</item> <item>blood</item>
+        <item>ordu</item> <item>hour; time</item>
+        <item>osaba</item> <item>uncle</item>
+        <item>pixka bat</item> <item>a little; a bit</item>
+        <item>poz</item> <item>joy</item>
+        <item>sari</item> <item>reward; prize</item>
+        <item>sendo</item> <item>robust; healthy; strong</item>
+        <item>uda</item> <item>summer</item>
+        <item>ugari</item> <item>abundant</item>
+        <item>ume</item> <item>kid; child</item>
+        <item>zergatik</item> <item>why</item>
+    </string-array>
+</resources>

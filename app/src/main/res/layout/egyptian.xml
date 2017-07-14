@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="138dp"
+        app:srcCompat="@drawable/daleth"
+        android:id="@+id/firstImage"
+        android:contentDescription="@string/firstimage"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="checkAnswer"/>
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="138dp"
+        app:srcCompat="@drawable/daleth"
+        android:id="@+id/secondImage"
+        android:contentDescription="@string/firstimage"
+        android:layout_alignTop="@+id/fourthImage"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="checkAnswer"/>
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="138dp"
+        app:srcCompat="@drawable/daleth"
+        android:id="@+id/thirdImage"
+        android:contentDescription="@string/firstimage"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="checkAnswer"/>
+
+    <ImageButton
+        android:layout_width="150dp"
+        android:layout_height="138dp"
+        app:srcCompat="@drawable/daleth"
+        android:id="@+id/fourthImage"
+        android:contentDescription="@string/firstimage"
+        android:layout_above="@+id/thirdImage"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="35dp"
+        android:onClick="checkAnswer"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp"
+        android:id="@+id/questionBox"
+        tools:textSize="30sp"
+        android:textSize="@dimen/text_size"
+        android:textColor="@android:color/black"/>
+</RelativeLayout>

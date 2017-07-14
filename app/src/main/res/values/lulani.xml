@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lulaniArray">
+        <item>’a</item> <item>derives an abstract noun from a verb</item>
+        <item>’a</item> <item>iron</item>
+        <item>’a’ami</item> <item>cerium</item>
+        <item>’a’ima</item> <item>traveller; journeyman</item>
+        <item>’appu</item> <item>baby; foetus</item>
+        <item>’appuli</item> <item>miscarriage; abortion</item>
+        <item>’aba</item> <item>all; every; everything; universal object</item>
+        <item>atinna</item> <item>derives a qualifier from a verb</item>
+        <item>’adda</item> <item>the past</item>
+        <item>’adi</item> <item>close; near</item>
+        <item>’aka</item> <item>spiritual plane</item>
+        <item>’akki</item> <item>boat</item>
+        <item>-aku</item> <item>augmentative</item>
+        <item>’agga</item> <item>the law</item>
+        <item>’aggami</item> <item>police officer</item>
+        <item>’aggini</item> <item>bismuth</item>
+        <item>’ama</item> <item>silicon</item>
+        <item>’anni</item> <item>plane of existence</item>
+        <item>’anu</item> <item>to be balanced</item>
+        <item>’anu</item> <item>to equal</item>
+        <item>’aqqixi</item> <item>yttrium</item>
+        <item>’ala</item> <item>heat</item>
+        <item>’alla</item> <item>familiarity</item>
+        <item>’ali</item> <item>gallium</item>
+        <item>’alissa</item> <item>need</item>
+        <item>’ara</item> <item>face</item>
+        <item>’aru’u</item> <item>strontium</item>
+        <item>’assa</item> <item>goods; groceries</item>
+        <item>’asila</item> <item>friendship</item>
+        <item>’asilari</item> <item>friend</item>
+        <item>’axasi</item> <item>maturity</item>
+        <item>’axasiri</item> <item>adult</item>
+        <item>’ahati</item> <item>happiness</item>
+        <item>-ahi</item> <item>derives a noun from a qualifier</item>
+        <item>’i</item> <item>to say; to speak; to tell</item>
+        <item>’i’ami</item> <item>hassium</item>
+        <item>’i’isata</item> <item>samarium</item>
+        <item>’i’uja</item> <item>table</item>
+        <item>’ita’i</item> <item>car; wagon; vehicle</item>
+        <item>’ita’i’assa</item> <item>wagon</item>
+        <item>’iti</item> <item>milk</item>
+        <item>’ittika</item> <item>element 118</item>
+        <item>’itikku</item> <item>breast</item>
+        <item>’idu</item> <item>to create; to make</item>
+        <item>’ikka</item> <item>californium</item>
+        <item>’iku</item> <item>hunger</item>
+        <item>’ima</item> <item>half</item>
+        <item>’ima</item> <item>void; vacuum</item>
+        <item>-ini</item> <item>diminutive; derives a noun of lesser intensity or size from another noun</item>
+        <item>’ilasa</item> <item>radium</item>
+        <item>’ilu</item> <item>heart; emotional body</item>
+        <item>-illu</item> <item>passive</item>
+        <item>’iffa</item> <item>third person transitive inanimate; 3ina;tra; it</item>
+        <item>’ifuhhanaku</item> <item>to agree</item>
+        <item>’issa</item> <item>oscillation; vibration</item>
+        <item>’isaki</item> <item>company; business</item>
+        <item>’issi</item> <item>song</item>
+        <item>’isili</item> <item>sadness</item>
+        <item>’issu</item> <item>vulva; vagina</item>
+        <item>’ixxa</item> <item>belly</item>
+        <item>’ixxa’i</item> <item>pride in another</item>
+        <item>’ihafi</item> <item>the four planes</item>
+        <item>’u’a</item> <item>wood</item>
+        <item>’u’ili</item> <item>reality</item>
+        <item>’udi</item> <item>teeth</item>
+        <item>’uccadama</item> <item>promethium</item>
+        <item>-uju</item> <item>ordinal</item>
+        <item>’umi</item> <item>anything; something; anyone; anything; existential object</item>
+        <item>’ulanu</item> <item>horniness; arousal</item>
+        <item>-ulu</item> <item>undo</item>
+        <item>’usa</item> <item>to look; to see; to watch</item>
+        <item>’usa</item> <item>mercury</item>
+        <item>’ussa</item> <item>to follow; to obey</item>
+        <item>’ussaba</item> <item>follower; submissive</item>
+        <item>’usaju’i</item> <item>to find</item>
+        <item>’usi</item> <item>6; six</item>
+        <item>’ussi</item> <item>present; gift</item>
+        <item>’usipacca</item> <item>to count</item>
+        <item>’usu</item> <item>first person intransitive; 1int; I; me</item>
+        <item>’uxxi</item> <item>group of people</item>
+        <item>’uhu</item> <item>many</item>
+        <item>pa</item> <item>towards</item>
+        <item>pa</item> <item>third person inanimate intransitive; 3ina;int; it</item>
+        <item>pa</item> <item>to think</item>
+        <item>pa’aka</item> <item>shoulder</item>
+        <item>papa</item> <item>iodine</item>
+        <item>pada</item> <item>and then</item>
+        <item>pacca</item> <item>number; mathematics; count; quantity</item>
+        <item>paccafuni</item> <item>lacking; sparse</item>
+        <item>paji</item> <item>fruit</item>
+        <item>pajiga</item> <item>olive</item>
+        <item>pakicu</item> <item>to think of as true</item>
+        <item>pagu</item> <item>first person genitive; my; mine; 1gen</item>
+        <item>paguqa</item> <item>first person genitive pronoun; mine</item>
+        <item>pamasi</item> <item>to decide on a course of action</item>
+        <item>pamilami</item> <item>to be awake; to be conscious</item>
+        <item>pana’ifu</item> <item>domesticated animal; klesh</item>
+        <item>pannaxa</item> <item>warrior</item>
+        <item>pani</item> <item>to be tame; to be tamed</item>
+        <item>panu</item> <item>mess</item>
+        <item>paraba</item> <item>thorium</item>
+        <item>pi</item> <item>past stative; pst;sta; was; were</item>
+        <item>piba</item> <item>superlative; maximum; most; deep in colour</item>
+        <item>pibi</item> <item>phosphorus</item>
+        <item>pini</item> <item>lithium</item>
+        <item>pifa</item> <item>to create ex nihilo</item>
+        <item>pixi</item> <item>first person dative; to me; 1dat</item>
+        <item>piha</item> <item>mother; parent</item>
+        <item>pu’a</item> <item>derives an animate patientive noun from a verb</item>
+        <item>pu’iba</item> <item>ball</item>
+        <item>puttu</item> <item>first person ablative; because of me; from me; 1abl</item>
+        <item>puca</item> <item>optimism</item>
+        <item>pura</item> <item>to change; to become</item>
+        <item>purakassu</item> <item>to trade</item>
+        <item>purillu</item> <item>passive form of pura to change</item>
+        <item>purissiji</item> <item>circle</item>
+        <item>pusu</item> <item>zirconium</item>
+        <item>puxila</item> <item>message</item>
+        <item>ba</item> <item>derives an animate agentive noun from a verb</item>
+        <item>ba</item> <item>second person genitive; 2gen; your; yours</item>
+        <item>ba’u</item> <item>second person dative; 2dat; to you</item>
+        <item>bata</item> <item>caution; care</item>
+        <item>batu</item> <item>collection; group</item>
+        <item>batu</item> <item>multiplied by</item>
+        <item>batuja</item> <item>everywhere; universal place</item>
+        <item>bada</item> <item>mammalian non-Guozu young offspring, baby</item>
+        <item>baca</item> <item>barium</item>
+        <item>baju</item> <item>to be blue, to turn blue</item>
+        <item>bajukunubi</item> <item>to be sky-blue</item>
+        <item>banara</item> <item>einsteinium</item>
+        <item>basa</item> <item>unlawfully; immorally</item>
+        <item>bassa</item> <item>situation</item>
+        <item>basi</item> <item>covering, lid</item>
+        <item>bi</item> <item>out, out of, from</item>
+        <item>bi</item> <item>bromine</item>
+        <item>bi’u</item> <item>to be sore, to hurt, to be painful, to be a pain, to ache</item>
+        <item>bibu</item> <item>complaint; whine</item>
+        <item>bitta</item> <item>time</item>
+        <item>bijaju</item> <item>first; 1st</item>
+        <item>bila</item> <item>-3; 3; ree; negative three</item>
+        <item>buccata</item> <item>element 117</item>
+        <item>buma</item> <item>to draw; to write; to project on screen</item>
+        <item>bumaki</item> <item>screen</item>
+        <item>bumissi</item> <item>dysprosium</item>
+        <item>bunali</item> <item>rhyme</item>
+        <item>buqqi</item> <item>penis</item>
+        <item>bufi</item> <item>pebble; stone; sedimentary rock</item>
+        <item>bufitila</item> <item>limestone</item>
+        <item>bufiqi</item> <item>illness</item>
+        <item>busatta</item> <item>colour</item>
+        <item>ta</item> <item>and</item>
+        <item>ta</item> <item>sulphur</item>
+        <item>ta’i</item> <item>scent; smell; aroma</item>
+        <item>tacala</item> <item>gadolinium</item>
+        <item>tacuca</item> <item>hafnium</item>
+        <item>taka</item> <item>sound</item>
+        <item>takki</item> <item>100; one hundred; (225)</item>
+        <item>takki</item> <item>many</item>
+        <item>taku</item> <item>past iterative</item>
+        <item>taku</item> <item>for; as a</item>
+        <item>takkulu</item> <item>chest; front of the body</item>
+        <item>tana</item> <item>there is</item>
+        <item>tanna</item> <item>memory</item>
+        <item>tali</item> <item>to take away from someone</item>
+        <item>tali</item> <item>subtract; minus</item>
+        <item>tara</item> <item>to begin</item>
+        <item>tasa</item> <item>nickel</item>
+        <item>tasi</item> <item>probability ≈ 0.75; probably</item>
+        <item>tiba</item> <item>legs</item>
+        <item>tika</item> <item>fermium</item>
+        <item>tina</item> <item>to differ from</item>
+        <item>tinalli</item> <item>universe; multiverse</item>
+        <item>tila</item> <item>animal shell</item>
+        <item>tirusi</item> <item>faculty of memory</item>
+        <item>tissa</item> <item>wind; moving air</item>
+        <item>tisaka</item> <item>town; city; village</item>
+        <item>tissini</item> <item>breeze</item>
+        <item>tiha</item> <item>row; line</item>
+        <item>tihu</item> <item>to abide</item>
+        <item>tu</item> <item>child; offspring; daughter; son</item>
+        <item>tu’afu</item> <item>plain; flatland; savanna</item>
+        <item>tu’i</item> <item>positive aspect</item>
+        <item>tu’uci</item> <item>honey</item>
+        <item>tupa</item> <item>responsibility; task</item>
+        <item>tuci</item> <item>to half do</item>
+        <item>tucinaci</item> <item>sort of; somewhat</item>
+        <item>tuja</item> <item>place; location in space</item>
+        <item>tujatihu</item> <item>home</item>
+        <item>tukaga</item> <item>ytterbium</item>
+        <item>tukkuni</item> <item>reason; logic</item>
+        <item>tuni</item> <item>to repeat</item>
+        <item>tuni</item> <item>redo</item>
+        <item>tuni</item> <item>denotes a repeating infinite digit string</item>
+        <item>turassi</item> <item>red-head</item>
+        <item>turu</item> <item>to close; to fill</item>
+        <item>turulu</item> <item>to open up</item>
+        <item>tuhi</item> <item>to be little; to shrink</item>
+        <item>tuhinuhu</item> <item>to be folded up</item>
+        <item>da</item> <item>negative aspect</item>
+        <item>da</item> <item>water</item>
+        <item>da’aru</item> <item>it exists; it happened; experience; it could happen</item>
+        <item>da’u</item> <item>arsenic</item>
+        <item>dapi</item> <item>more than is necessary; spare</item>
+        <item>dattu</item> <item>divine force</item>
+        <item>dattusa</item> <item>god; deity</item>
+        <item>danna</item> <item>succeed</item>
+        <item>danagi</item> <item>decree; proclamation</item>
+        <item>daru</item> <item>road; street</item>
+        <item>daru’i</item> <item>because</item>
+        <item>daruli</item> <item>wrong way</item>
+        <item>dasa</item> <item>passion; anger</item>
+        <item>dasi</item> <item>to place in the mouth; to eat; to chew; to suck; to lick; to drink.</item>
+        <item>dasu</item> <item>animal</item>
+        <item>dasutila</item> <item>mollusc</item>
+        <item>daxuni</item> <item>tail</item>
+        <item>di</item> <item>derives a patientive inanimate noun from an abstract noun</item>
+        <item>di</item> <item>up; above; atop</item>
+        <item>dina</item> <item>potassium</item>
+        <item>diru</item> <item>money; dollar</item>
+        <item>disa</item> <item>aluminium</item>
+        <item>disi</item> <item>third person animate genitive; 3ani;gen; his; her</item>
+        <item>disinnamuka</item> <item>prologue</item>
+        <item>dissu</item> <item>to feel</item>
+        <item>dissu</item> <item>youth; newness</item>
+        <item>dissu’ahati</item> <item>to be happy</item>
+        <item>dixxa</item> <item>drink</item>
+        <item>dihiqa</item> <item>americium</item>
+        <item>du’i</item> <item>beyond; opposite</item>
+        <item>duci</item> <item>to have; to own; to possess</item>
+        <item>ducinibasa</item> <item>to steal; to come by unlawfully</item>
+        <item>duku</item> <item>the four bodies; ones whole self</item>
+        <item>dukku</item> <item>not by choice</item>
+        <item>dumi</item> <item>try to</item>
+        <item>dura</item> <item>repeatedly</item>
+        <item>dusi</item> <item>manner; fashion; way</item>
+        <item>dusuni</item> <item>hand</item>
+        <item>duha</item> <item>person</item>
+        <item>ca</item> <item>to help</item>
+        <item>ca’a</item> <item>fluorine</item>
+        <item>ca’alla</item> <item>have to; obligation</item>
+        <item>ca’i</item> <item>romance</item>
+        <item>cabahi</item> <item>bohrium</item>
+        <item>cakassu</item> <item>polonium</item>
+        <item>cakina</item> <item>scandium</item>
+        <item>caga</item> <item>mouth</item>
+        <item>cani</item> <item>present dynamic; prs;dyn; is</item>
+        <item>cani</item> <item>to have</item>
+        <item>calluna</item> <item>erbium</item>
+        <item>ciʔa</item> <item>life processes</item>
+        <item>cipu</item> <item>desire to know; ask; question</item>
+        <item>cica</item> <item>fence; gate</item>
+        <item>cijja</item> <item>alcohol</item>
+        <item>ciqu</item> <item>mould (for pouring, etc.)</item>
+        <item>cissa</item> <item>air</item>
+        <item>cu</item> <item>none</item>
+        <item>cu’i</item> <item>nothing; no one; negative object</item>
+        <item>cula</item> <item>egg</item>
+        <item>cura</item> <item>(time) passes</item>
+        <item>cura’a</item> <item>time</item>
+        <item>curri</item> <item>part; section</item>
+        <item>cussa</item> <item>subtle bodies; psyche</item>
+        <item>cussi</item> <item>feel; touch</item>
+        <item>cussi’ala</item> <item>to be hot</item>
+        <item>ja</item> <item>along</item>
+        <item>jagaru</item> <item>sand</item>
+        <item>jami</item> <item>worked out; known from evidence; evidentially</item>
+        <item>jana</item> <item>old person; elder</item>
+        <item>janni</item> <item>move around; vibrate</item>
+        <item>jala</item> <item>platinum</item>
+        <item>jalla</item> <item>object; item</item>
+        <item>jaha</item> <item>offence; worry</item>
+        <item>ji</item> <item>needing; requiring</item>
+        <item>ji</item> <item>present negative; prs;neg; is not; isn’t</item>
+        <item>ji’i</item> <item>to taste; to smell</item>
+        <item>jiqu</item> <item>voice</item>
+        <item>jifiru’i</item> <item>lake</item>
+        <item>jisuka</item> <item>ideology; philosophy; thoughts</item>
+        <item>ju’i</item> <item>link; join; wear</item>
+        <item>ju’i</item> <item>plus</item>
+        <item>ju’ipu’a</item> <item>assembly; group</item>
+        <item>ju’iduku</item> <item>marry</item>
+        <item>julliga</item> <item>married woman; spouse</item>
+        <item>jusi</item> <item>third person animate dative; 3ani;dat; to her; to him</item>
+        <item>jusiti</item> <item>-6; 6; rix; minus six; negative six</item>
+        <item>ka</item> <item>south; southwards</item>
+        <item>ka</item> <item>as, equalative</item>
+        <item>ka</item> <item>state</item>
+        <item>ka’i</item> <item>titanium</item>
+        <item>ka’u</item> <item>jump</item>
+        <item>kata</item> <item>each other; reciprocal</item>
+        <item>kati</item> <item>denotes a male animate</item>
+        <item>katiru</item> <item>holmium</item>
+        <item>kadusi</item> <item>that way; in that manner; distal manner</item>
+        <item>kaca</item> <item>cadmium</item>
+        <item>kamiri</item> <item>cage; pen</item>
+        <item>kanama</item> <item>play; mucking around</item>
+        <item>kanu</item> <item>leg</item>
+        <item>kaqqa</item> <item>brother; male cousin</item>
+        <item>kalu</item> <item>third person inanimate ablative; 3ina;abl; because of it; from it</item>
+        <item>kalu</item> <item>ablative; abl</item>
+        <item>kalu</item> <item>physical body</item>
+        <item>karra</item> <item>wheat</item>
+        <item>karafi</item> <item>sacredness; enlightenment</item>
+        <item>kari</item> <item>uranium</item>
+        <item>karu</item> <item>terminative; trm</item>
+        <item>kasa</item> <item>male; man; boy</item>
+        <item>kasi</item> <item>that; distal object</item>
+        <item>kassi</item> <item>third person animate ablative; 3ani;abl; from her; from him; from them; because of him; because of her; because of them</item>
+        <item>kasika</item> <item>that way; in that state; distal state</item>
+        <item>kassu</item> <item>trade</item>
+        <item>kassu</item> <item>mind</item>
+        <item>kasuja</item> <item>there; distal place</item>
+        <item>kahi</item> <item>arm</item>
+        <item>ki</item> <item>forms fractions</item>
+        <item>ki</item> <item>forms an inanimate agentive noun</item>
+        <item>ki</item> <item>big; grow; large</item>
+        <item>kiʔa</item> <item>to be white; to turn white</item>
+        <item>kipacca</item> <item>to grow in number</item>
+        <item>kipu</item> <item>horse; ox; draughtsbeast; drif</item>
+        <item>kibba</item> <item>stick; rod; branch</item>
+        <item>kitisu</item> <item>wife; spouse</item>
+        <item>kica</item> <item>sister; sibling; cousin</item>
+        <item>kicu</item> <item>truth</item>
+        <item>kika</item> <item>denotes a length of time or space; interval; over</item>
+        <item>kimilli</item> <item>king</item>
+        <item>kilatu’i</item> <item>deer</item>
+        <item>kiluqu</item> <item>walk</item>
+        <item>kirallu</item> <item>-2; 2, ru, minus two</item>
+        <item>kiffaculi</item> <item>little person</item>
+        <item>kifi</item> <item>3; three</item>
+        <item>kissaji</item> <item>to fight</item>
+        <item>kixa</item> <item>lutetium</item>
+        <item>kixxita</item> <item>building column</item>
+        <item>kixina</item> <item>grief from loss</item>
+        <item>ku</item> <item>dative; dat</item>
+        <item>ku</item> <item>third person inanimate dative; to it; 3ina;dat</item>
+        <item>-kku</item> <item>body part</item>
+        <item>kupira</item> <item>intensely</item>
+        <item>kuppu</item> <item>to be strong; to be dense; to be heavy</item>
+        <item>kuddu</item> <item>rain</item>
+        <item>kunaqi</item> <item>soil; land; earth; dirt</item>
+        <item>kunubi</item> <item>sky</item>
+        <item>kuli’a</item> <item>acquaintance</item>
+        <item>kulu</item> <item>fork</item>
+        <item>kuffa</item> <item>to give</item>
+        <item>kuxalu</item> <item>neon</item>
+        <item>kuxxu</item> <item>boron</item>
+        <item>ga</item> <item>to be black; to turn black</item>
+        <item>ga</item> <item>to put</item>
+        <item>ga’i</item> <item>time; while</item>
+        <item>gaca</item> <item>minister; lord; lady</item>
+        <item>gakka</item> <item>wound</item>
+        <item>galaffidu</item> <item>throne</item>
+        <item>gaxiki</item> <item>cobalt</item>
+        <item>gi</item> <item>left; on the left-hand side</item>
+        <item>gi</item> <item>to carry; to take; to bring</item>
+        <item>gi’a</item> <item>and; that is</item>
+        <item>gibi</item> <item>east; eastwards</item>
+        <item>girammi</item> <item>thunder</item>
+        <item>gupi</item> <item>sit</item>
+        <item>guqqa</item> <item>francium</item>
+        <item>gurrisu</item> <item>door</item>
+        <item>gufu’iri</item> <item>radio receiver</item>
+        <item>gusu</item> <item>Guozu</item>
+        <item>Guozu</item> <item>Loren’s species, which spread out into the Tinellbian worlds from Naengi.</item>
+        <item>gusuli</item> <item>person; non-Guozu</item>
+        <item>guhi</item> <item>5; five</item>
+        <item>ma</item> <item>terminative, used for qualifiers.</item>
+        <item>ma’iki</item> <item>across</item>
+        <item>maʔu</item> <item>gingla</item>
+        <item>mabarri</item> <item>argument; quarrel</item>
+        <item>matta</item> <item>also</item>
+        <item>matta</item> <item>again</item>
+        <item>matta</item> <item>second</item>
+        <item>matirra</item> <item>selenium</item>
+        <item>madi</item> <item>to rise; to be high</item>
+        <item>madusi</item> <item>this way; in this manner; proximate manner</item>
+        <item>majja</item> <item>here; proximate place</item>
+        <item>maku</item> <item>to throw</item>
+        <item>mana</item> <item>bubble</item>
+        <item>manafa</item> <item>country</item>
+        <item>mala</item> <item>reflect</item>
+        <item>mala</item> <item>denotes a mirrored repeating infinite digit string</item>
+        <item>malaki</item> <item>mirror</item>
+        <item>mali</item> <item>position</item>
+        <item>malliju</item> <item>happiness; orgasm</item>
+        <item>malu</item> <item>there is; there exists</item>
+        <item>mallu</item> <item>address</item>
+        <item>mari</item> <item>proximate objective pronoun; this</item>
+        <item>marika</item> <item>this way; in this state; proximate state</item>
+        <item>masi</item> <item>course of action</item>
+        <item>masi</item> <item>snow</item>
+        <item>masula</item> <item>surrender</item>
+        <item>mi</item> <item>giver</item>
+        <item>mi</item> <item>any; some</item>
+        <item>mi’ula</item> <item>reed</item>
+        <item>mi’ulla</item> <item>discus</item>
+        <item>mituja</item> <item>somewhere; anywhere; anytime; sometime; existential place</item>
+        <item>mica</item> <item>hello</item>
+        <item>mica</item> <item>permission</item>
+        <item>mici</item> <item>internal peace</item>
+        <item>mika</item> <item>unspecified group of people; some group</item>
+        <item>miku</item> <item>to be red; to make red</item>
+        <item>mikkuddu</item> <item>annoyance</item>
+        <item>mimu’i</item> <item>some; more than one</item>
+        <item>minaʔi</item> <item>tungsten</item>
+        <item>milami</item> <item>surroundings; mise-en-scène</item>
+        <item>millu</item> <item>to be brown; to turn brown</item>
+        <item>miru</item> <item>now; here</item>
+        <item>mifasu</item> <item>subject; subordinate; vassal</item>
+        <item>missu</item> <item>-4; 4;rour; minus four</item>
+        <item>mihu</item> <item>third person animate intransitive; he; him; her; she; 3ani;int</item>
+        <item>muka</item> <item>derives a noun from a prepositional phrase</item>
+        <item>muli</item> <item>foolishness</item>
+        <item>mulikki</item> <item>page of a book</item>
+        <item>mulisa</item> <item>fool</item>
+        <item>mulu</item> <item>blood</item>
+        <item>mullu</item> <item>-1; 1; ron, minus one</item>
+        <item>mulukku</item> <item>heart</item>
+        <item>muru</item> <item>pile; cairn</item>
+        <item>musa</item> <item>sun; day</item>
+        <item>mussa</item> <item>exoticism</item>
+        <item>musaqu</item> <item>lead</item>
+        <item>na</item> <item>going to</item>
+        <item>na</item> <item>present iterative; prs;itr; is</item>
+        <item>na</item> <item>point; face</item>
+        <item>na’a</item> <item>actinium</item>
+        <item>na’ipa</item> <item>darmstadtium</item>
+        <item>napuxi</item> <item>fur; hair</item>
+        <item>natiha</item> <item>box</item>
+        <item>natu</item> <item>iridium</item>
+        <item>nada</item> <item>emotional plane</item>
+        <item>nacca</item> <item>covering; clothing</item>
+        <item>naci</item> <item>somewhat</item>
+        <item>nakaku</item> <item>meitnerium</item>
+        <item>naku</item> <item>together</item>
+        <item>nagi</item> <item>future stative; fut;sta; will be</item>
+        <item>nagi</item> <item>become</item>
+        <item>nama</item> <item>to be light; to be rarefied; to be weak</item>
+        <item>naqa</item> <item>need</item>
+        <item>Naqi</item> <item>Naengi</item>
+        <item>Naengi</item> <item>(name of Loren’s home planet)</item>
+        <item>nali</item> <item>general need for intimacy; hemdóiness</item>
+        <item>nallimi</item> <item>cheese</item>
+        <item>naludu</item> <item>physical plane</item>
+        <item>nara</item> <item>goodbye</item>
+        <item>nara</item> <item>to sleep; to fall asleep</item>
+        <item>naru</item> <item>slowly</item>
+        <item>nasiʔu</item> <item>sheep</item>
+        <item>nasufi</item> <item>ruthenium</item>
+        <item>ni</item> <item>begin to</item>
+        <item>ni</item> <item>at; in</item>
+        <item>ni</item> <item>silver</item>
+        <item>nittu</item> <item>be wild</item>
+        <item>nika</item> <item>journey; travel</item>
+        <item>nikili</item> <item>technetium</item>
+        <item>niga</item> <item>guide; protection</item>
+        <item>nimalu</item> <item>bear</item>
+        <item>nina</item> <item>used for the purpose of</item>
+        <item>niqqi</item> <item>derives a qualifier from a nominal</item>
+        <item>nisa</item> <item>only; sole</item>
+        <item>nisanna</item> <item>bottom; posterior; derrière; buttocks</item>
+        <item>nu</item> <item>to stop</item>
+        <item>nu’ifi</item> <item>hide</item>
+        <item>nubi</item> <item>Nuobi</item>
+        <item>Nuobi</item> <item>(name given to Loren’s home reality)</item>
+        <item>nudda</item> <item>caesium</item>
+        <item>nuki</item> <item>or</item>
+        <item>nukki</item> <item>strawberry</item>
+        <item>nuku</item> <item>world; planet</item>
+        <item>nullasa</item> <item>dubnium</item>
+        <item>nulli</item> <item>mountain; hill</item>
+        <item>nulina</item> <item>lawrencium</item>
+        <item>nura</item> <item>to separate; to move away from someone else; to leave</item>
+        <item>nuru</item> <item>4; four</item>
+        <item>nufira</item> <item>optative; want</item>
+        <item>nufirahi</item> <item>expectation</item>
+        <item>nussa</item> <item>vanadium</item>
+        <item>nuhu</item> <item>folded paper; origami</item>
+        <item>nuhubatu</item> <item>book</item>
+        <item>qa</item> <item>nominaliser - denotes a specific case of a general number, verb or pronoun</item>
+        <item>qa</item> <item>third person inanimate genitive; 3ina;gen; its</item>
+        <item>qa</item> <item>down</item>
+        <item>qa’i</item> <item>nowhere; never; negative place</item>
+        <item>qaʔiku</item> <item>nobelium</item>
+        <item>qapi</item> <item>chain; rope; string; collection</item>
+        <item>qacca</item> <item>choose; decide</item>
+        <item>qacca’a</item> <item>choice; decision</item>
+        <item>qala</item> <item>palladium</item>
+        <item>qarri</item> <item>to open</item>
+        <item>qasa</item> <item>fish</item>
+        <item>qaxa</item> <item>calcium</item>
+        <item>qi</item> <item>marks a female animate</item>
+        <item>qi</item> <item>to experience</item>
+        <item>qikka</item> <item>0; zero</item>
+        <item>qikanni</item> <item>dog</item>
+        <item>qilu</item> <item>past negative; did not; didn’t; pst;neg</item>
+        <item>qilu</item> <item>receiving</item>
+        <item>qira</item> <item>rough; coarse; difficult</item>
+        <item>qixa</item> <item>past dynamic; did; pst;dyn</item>
+        <item>qixa</item> <item>doing</item>
+        <item>qu</item> <item>and</item>
+        <item>qu’u</item> <item>inside</item>
+        <item>qumalli</item> <item>manganese</item>
+        <item>qumu</item> <item>female; woman; girl</item>
+        <item>quliru</item> <item>family</item>
+        <item>quffi</item> <item>krypton</item>
+        <item>quxi</item> <item>mountain</item>
+        <item>quhha</item> <item>river</item>
+        <item>quhu</item> <item>third person animate transitive; 3ani;tra; him, her, he, she</item>
+        <item>la</item> <item>do</item>
+        <item>la</item> <item>hydrogen</item>
+        <item>la’a</item> <item>on a horizontal surface</item>
+        <item>la’i</item> <item>derives an animate noun from an intransitive verb</item>
+        <item>labu</item> <item>future dynamic; will; fut;dyn</item>
+        <item>labu</item> <item>resembling</item>
+        <item>lati</item> <item>chance; opportunity</item>
+        <item>ladi</item> <item>cloud</item>
+        <item>lajja</item> <item>all the rest; the others</item>
+        <item>laji</item> <item>tin</item>
+        <item>lakka</item> <item>to break</item>
+        <item>lakka</item> <item>niobium</item>
+        <item>lakatti</item> <item>protactinium</item>
+        <item>lannaga</item> <item>scientific experiment; experimental science</item>
+        <item>lannuhu</item> <item>stomach</item>
+        <item>laqa</item> <item>argon</item>
+        <item>laqqu</item> <item>wealth</item>
+        <item>laqura</item> <item>mendelevium</item>
+        <item>lalu</item> <item>tongue</item>
+        <item>lara</item> <item>interrogative manner; how?</item>
+        <item>laru</item> <item>year</item>
+        <item>laffi</item> <item>-5; 5; rive; minus five</item>
+        <item>lasakka</item> <item>queue of people</item>
+        <item>lassi</item> <item>baby</item>
+        <item>lasu</item> <item>tellurium</item>
+        <item>lahha</item> <item>body</item>
+        <item>li</item> <item>complementiser</item>
+        <item>li</item> <item>not; other</item>
+        <item>li’a</item> <item>helium</item>
+        <item>lidita</item> <item>bag</item>
+        <item>lica</item> <item>thread; spiderweb; wool</item>
+        <item>limma</item> <item>chlorine</item>
+        <item>linu</item> <item>tree</item>
+        <item>liqa</item> <item>head</item>
+        <item>lilu</item> <item>stairs</item>
+        <item>liffa</item> <item>speech; address</item>
+        <item>lisa</item> <item>paper</item>
+        <item>lisanu</item> <item>wheel; circle of people</item>
+        <item>lisu</item> <item>sodium</item>
+        <item>lu’i</item> <item>love</item>
+        <item>lu’i</item> <item>love</item>
+        <item>lu’iki</item> <item>soul; spirit; that which loves</item>
+        <item>lupumma</item> <item>fire</item>
+        <item>luka</item> <item>indium</item>
+        <item>lukku</item> <item>wall</item>
+        <item>lumi</item> <item>several</item>
+        <item>luna</item> <item>moon</item>
+        <item>lulani</item> <item>queen; monarch</item>
+        <item>Lulani</item> <item>Lulani (language)</item>
+        <item>luffu</item> <item>eye(s)</item>
+        <item>luffuxita</item> <item>eye</item>
+        <item>luxi</item> <item>multiple birth</item>
+        <item>ra</item> <item>denotes a pair of something</item>
+        <item>ra</item> <item>2; two</item>
+        <item>ra</item> <item>metal</item>
+        <item>raʔasa</item> <item>praseodymium</item>
+        <item>ra’u</item> <item>present stative; prs;sta; is</item>
+        <item>ra’u</item> <item>being in</item>
+        <item>rabaci</item> <item>element 113</item>
+        <item>raddilla</item> <item>thulium</item>
+        <item>raca</item> <item>to hang</item>
+        <item>ranna</item> <item>specialness; exaltedness; glory</item>
+        <item>ranira</item> <item>22; twenty-two; (34)</item>
+        <item>raqu</item> <item>between; among</item>
+        <item>rali</item> <item>back</item>
+        <item>rali</item> <item>intensely</item>
+        <item>rasi</item> <item>the future</item>
+        <item>ri</item> <item>derives an animate noun from an abstract noun</item>
+        <item>ri’i</item> <item>lightning</item>
+        <item>rica</item> <item>end (of a line, stick)</item>
+        <item>riccu</item> <item>sphere</item>
+        <item>rika</item> <item>and thus</item>
+        <item>rika</item> <item>state of being; condition</item>
+        <item>rila</item> <item>terbium</item>
+        <item>rili</item> <item>element 115</item>
+        <item>risu</item> <item>actual want</item>
+        <item>ru</item> <item>to be called</item>
+        <item>ru</item> <item>derives a gerund from a verb</item>
+        <item>ru</item> <item>present gnomic</item>
+        <item>ru’iha</item> <item>history book</item>
+        <item>ruba</item> <item>sense image</item>
+        <item>ruci</item> <item>mental plane</item>
+        <item>ruku</item> <item>future gnomic; fut;gno; will be</item>
+        <item>ruku</item> <item>made of</item>
+        <item>rusa</item> <item>past gnomic; pst;gno; always was</item>
+        <item>rusa</item> <item>coming from</item>
+        <item>faʔa</item> <item>language</item>
+        <item>fa’aka</item> <item>gorge; valley; canyon</item>
+        <item>fa’ida</item> <item>the present; now</item>
+        <item>fada</item> <item>chromium</item>
+        <item>fajuli</item> <item>crowd of people</item>
+        <item>famati</item> <item>rutherfordium</item>
+        <item>famu</item> <item>completely</item>
+        <item>fana</item> <item>somehow; existential manner; existential state</item>
+        <item>faluki</item> <item>journey</item>
+        <item>fara</item> <item>subtle planes</item>
+        <item>farra</item> <item>curium</item>
+        <item>fasa</item> <item>moment; second</item>
+        <item>fasami</item> <item>radon</item>
+        <item>faxi</item> <item>to survive</item>
+        <item>fi</item> <item>gold</item>
+        <item>-ffi</item> <item>instrument; tool</item>
+        <item>fi’atu</item> <item>certain; particular</item>
+        <item>fibaku</item> <item>neodymium</item>
+        <item>fiqqala</item> <item>beryllium</item>
+        <item>fiqu</item> <item>float; drift </item>
+        <item>filli</item> <item>second person intransitive; 2int; you</item>
+        <item>fu</item> <item>second person transitive; 2tra; you</item>
+        <item>funi</item> <item>future negative; fut;neg; will not; won’t</item>
+        <item>fula</item> <item>rhodium</item>
+        <item>fuhha</item> <item>decision</item>
+        <item>sa</item> <item>one</item>
+        <item>sa</item> <item>derives an animate noun from an abstract noun</item>
+        <item>sa</item> <item>being alone; aloneness</item>
+        <item>sa</item> <item>oxygen</item>
+        <item>sa</item> <item>to be yellow; to turn yellow</item>
+        <item>sa’i</item> <item>light</item>
+        <item>Sa’imi</item> <item>Caemi; goddess of light, energy and chaos; light-giver</item>
+        <item>sabba</item> <item>father</item>
+        <item>sabi</item> <item>side of the body; flank</item>
+        <item>sabilla</item> <item>13; rirteen; (12)</item>
+        <item>sabufi</item> <item>different</item>
+        <item>sata</item> <item>for</item>
+        <item>satta</item> <item>where; interrogative place</item>
+        <item>satadu</item> <item>conversation</item>
+        <item>sadadu</item> <item>rubidium</item>
+        <item>sacu</item> <item>second person ablative; 2abl; from you; because of you</item>
+        <item>saja</item> <item>lie down</item>
+        <item>sajja</item> <item>silence</item>
+        <item>sajimu</item> <item>crack</item>
+        <item>saki</item> <item>to share</item>
+        <item>saki</item> <item>divided by</item>
+        <item>saggi</item> <item>iron pyrites</item>
+        <item>sama</item> <item>what; who; interrogative object</item>
+        <item>samma</item> <item>unconditional love</item>
+        <item>sanna</item> <item>jealousy; envy</item>
+        <item>sannaca’i</item> <item>jealousy</item>
+        <item>sani</item> <item>north</item>
+        <item>saniki</item> <item>seaborgium</item>
+        <item>saqa</item> <item>right; on the right-hand side</item>
+        <item>saqqa</item> <item>how; interrogative state</item>
+        <item>sala</item> <item>salt</item>
+        <item>salari</item> <item>antimony</item>
+        <item>salilu</item> <item>night sky</item>
+        <item>salumi</item> <item>7; seven</item>
+        <item>salura</item> <item>12; twelve; (17)</item>
+        <item>sara</item> <item>reins</item>
+        <item>sarru</item> <item>without; instead of; rather than</item>
+        <item>-ssasu</item> <item>augmentative</item>
+        <item>saxxuru</item> <item>berkelium</item>
+        <item>sahha</item> <item>xenon</item>
+        <item>si</item> <item>inceptive</item>
+        <item>si’a</item> <item>heal; fix</item>
+        <item>si’apa</item> <item>meal</item>
+        <item>sippa</item> <item>time</item>
+        <item>sida</item> <item>heart (physical organ)</item>
+        <item>sicu</item> <item>astatine</item>
+        <item>sija</item> <item>either; or</item>
+        <item>-ssiji</item> <item>derives the names of shapes from the number of edges or vertices</item>
+        <item>sikka</item> <item>skin</item>
+        <item>sika</item> <item>derives a verb from a nominal</item>
+        <item>siku</item> <item>to die; to kill</item>
+        <item>sikuffi</item> <item>spear</item>
+        <item>sina</item> <item>attractiveness; prettiness; cuteness</item>
+        <item>sinna</item> <item>story; tale</item>
+        <item>siqi</item> <item>europium</item>
+        <item>silla</item> <item>thallium</item>
+        <item>silu</item> <item>husband</item>
+        <item>sisa</item> <item>to be in contact</item>
+        <item>sisa</item> <item>nakedness; nudity</item>
+        <item>su</item> <item>comparative; than</item>
+        <item>su’a</item> <item>self; reflexive particle</item>
+        <item>soul</item> <item>heart</item>
+        <item>su’usi</item> <item>roentgenium</item>
+        <item>supu</item> <item>osmium</item>
+        <item>subtle</item> <item>non-physical</item>
+        <item>sutta</item> <item>nitrogen</item>
+        <item>sutti</item> <item>fear</item>
+        <item>suda</item> <item>livermorium</item>
+        <item>suki</item> <item>copper</item>
+        <item>sukki</item> <item>entire; whole; all</item>
+        <item>suma</item> <item>first person transitive; I; me; 1tra</item>
+        <item>sumika</item> <item>westwards</item>
+        <item>sunu</item> <item>cloak</item>
+        <item>suqa</item> <item>to be ready; to be completed; to be prepared</item>
+        <item>sula</item> <item>goat</item>
+        <item>sula</item> <item>molybdenum</item>
+        <item>surra</item> <item>because; when</item>
+        <item>sufi</item> <item>space</item>
+        <item>sussi</item> <item>plutonium</item>
+        <item>xa</item> <item>dative promotion; dtv</item>
+        <item>xa’a</item> <item>flerovium</item>
+        <item>xaʔa</item> <item>gas</item>
+        <item>xaʔu</item> <item>child</item>
+        <item>xati</item> <item>flour; porridge; gruel</item>
+        <item>xaki</item> <item>magnesium</item>
+        <item>xakila</item> <item>thought to be</item>
+        <item>xanaki</item> <item>lanthanum</item>
+        <item>xalli</item> <item>married man</item>
+        <item>xasagi</item> <item>neptunium</item>
+        <item>xaha</item> <item>name</item>
+        <item>xi</item> <item>to appear to be; to project</item>
+        <item>xibbuti</item> <item>over and done with; never again</item>
+        <item>xita</item> <item>one</item>
+        <item>xita</item> <item>one particle of a mass</item>
+        <item>xidu</item> <item>far away</item>
+        <item>xiku</item> <item>relativiser</item>
+        <item>xissata</item> <item>musical instrument</item>
+        <item>xu</item> <item>to put out; to radiate; to broadcast</item>
+        <item>xu</item> <item>carbon</item>
+        <item>xu’a</item> <item>bird</item>
+        <item>xuʔa</item> <item>smile; grin</item>
+        <item>xudi</item> <item>flow of water</item>
+        <item>xuci</item> <item>feather</item>
+        <item>xuhhi</item> <item>germanium</item>
+        <item>hatanu</item> <item>copernicium</item>
+        <item>haki</item> <item>-7; 7; reven; minus seven</item>
+        <item>hannaku</item> <item>cat</item>
+        <item>halu</item> <item>algorithm; computer program</item>
+        <item>haru</item> <item>with; consisting of</item>
+        <item>hafi</item> <item>grass; field; savannah</item>
+        <item>hassifula</item> <item>laugh</item>
+        <item>hasuki</item> <item>rhenium</item>
+        <item>hibu</item> <item>allowing oneself; making oneself; taking responsibility for oneself</item>
+        <item>hika</item> <item>zinc</item>
+        <item>hiqa</item> <item>order; demand; command</item>
+        <item>hila</item> <item>tantalum</item>
+        <item>hisu</item> <item>to administer; to manage; to run; to rule</item>
+        <item>hu</item> <item>wanting</item>
+        <item>hu</item> <item>future iterative; will; fut;itr</item>
+        <item>hu’asa</item> <item>painting; portrait</item>
+        <item>huba</item> <item>to breathe</item>
+        <item>hulla</item> <item>to have sex</item>
+        <item>hulu</item> <item>hear</item>
+        <item>huri</item> <item>ocean; sea</item>
+        <item>husabi</item> <item>finger</item>
+        <item>hussu</item> <item>to drop; to fall; to be low</item>
+    </string-array>
+</resources>

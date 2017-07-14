@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arabicArray">
+        <item>صديق</item> <item>Sadiiq: friend</item>
+        <item>صفر</item> <item>Sifr: zero</item>
+        <item>واحد</item> <item>waaHid: one</item>
+        <item>اثنان</item> <item>ithnaan: two</item>
+        <item>ثلاثة</item> <item>thalaatha: three</item>
+        <item>أربعة</item> <item>’arbahha: four</item>
+        <item>خمسة</item> <item>xamsa: five</item>
+        <item>ستة</item> <item>sitta: six</item>
+        <item>سبعة</item> <item>sabhha: seven</item>
+        <item>ثمانية</item> <item>thamaaniya: eight</item>
+        <item>تسعة</item> <item>tishha: nine</item>
+        <item>عشرة</item> <item>hhashra: ten</item>
+    </string-array>
+</resources>

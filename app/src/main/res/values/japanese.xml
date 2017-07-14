@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="japaneseArray">
+        <item>星: ほし</item> <item>star</item>
+        <item>お願い: おねがい</item> <item>request</item>
+        <item>第一章: だいいっしょう</item> <item>chapter one</item>
+        <item>穏やか: おだやか</item> <item>calm</item>
+        <item>季節: きせつ</item> <item>season</item>
+        <item>不思議: ふしぎ</item> <item>wonder; marvel; mystery</item>
+        <item>息: いき</item> <item>breath</item>
+        <item>止める: とめる</item> <item>stop</item>
+        <item>一気: いっき</item> <item>in one breath</item>
+        <item>置く: おく</item> <item>put</item>
+        <item>達成感: たっせいかん</item> <item>feeling of accomplishment</item>
+        <item>呟く: つぶやく</item> <item>murmur</item>
+        <item>一杯: いっぱい</item> <item>one cup</item>
+        <item>顔: かお</item> <item>face</item>
+        <item>残る: のこる</item> <item>remain</item>
+        <item>味: あじ</item> <item>taste</item>
+        <item>地球: ちきゅう</item> <item>earth; globe</item>
+        <item>埋める: うずめる</item> <item>fill up; bury</item>
+        <item>振る: ふる</item> <item>wave; shake</item>
+        <item>接近: せっきん</item> <item>approach</item>
+        <item>歪める: ゆがめる</item> <item>distort</item>
+        <item>流星群: りゅうせいぐん</item> <item>meteor shower</item>
+        <item>笑う: わらう</item> <item>smile; laugh</item>
+        <item>胸苦しい: むなぐるしい</item> <item>feeling oppressed in the chest</item>
+        <item>街: まち</item> <item>town; streets</item>
+        <item>話題: わだい</item> <item>topic; subject</item>
+        <item>首: くび</item> <item>neck</item>
+        <item>まま</item> <item>beyond one\'s control</item>
+        <item>くらい</item> <item>gloomy</item>
+        <item>並べる: ならべる</item> <item>arrange</item>
+        <item>住人: じゅうにん</item> <item>resident</item>
+        <item>信じる: しんじる</item> <item>believe</item>
+        <item>壁: かべ</item> <item>wall</item>
+        <item>夜空: よぞら</item> <item>night sky</item>
+        <item>夜道: よみち</item> <item>night journey</item>
+        <item>店先: みせさき</item> <item>storefront</item>
+        <item>座る: すわる</item> <item>sit</item>
+        <item>抜かる: ぬかる</item> <item>make a mistake</item>
+        <item>椅子: いす</item> <item>chair; seat</item>
+        <item>次々: つぎつぎ</item> <item>one by one</item>
+        <item>石段: いしだん</item> <item>stone steps</item>
+        <item>窓際: まどぎわ</item> <item>by the window</item>
+        <item>考える: かんがえる</item> <item>think; consider</item>
+        <item>起こる: おこる</item> <item>occur</item>
+        <item>あるいは</item> <item>or</item>
+        <item>たれる</item> <item>hang</item>
+        <item>一部: いちぶ</item> <item>one part</item>
+        <item>以上: いじょう</item> <item>more than</item>
+        <item>俯く: うつむく</item> <item>to look down</item>
+        <item>光: ひかり</item> <item>light</item>
+        <item>内側: うちがわ</item> <item>inside</item>
+        <item>取る: とる</item> <item>to take</item>
+        <item>失う: うしなう</item> <item>to lose</item>
+        <item>奥: おく</item> <item>interior</item>
+        <item>引っ込み: ひっこみ</item> <item>stand back</item>
+        <item>戻す: もどす</item> <item>give back; send back</item>
+        <item>戻る: もどる</item> <item>come back; return</item>
+        <item>投げ出す: なげだす</item> <item>to fling out; to renounce</item>
+        <item>揺らめく: ゆらめく</item> <item>sway</item>
+        <item>注文: ちゅうもん</item> <item>order; commission</item>
+        <item>液体: えきたい</item> <item>liquid</item>
+        <item>淡い: あわい</item> <item>pale; faint</item>
+        <item>濃厚: のうこう</item> <item>thick; strong; rich</item>
+        <item>真紅: しんく</item> <item>crimson</item>
+        <item>降りる: おりる</item> <item>to get off</item>
+        <item>とろりと</item> <item>sticky</item>
+        <item>とろりと</item> <item>drowsily</item>
+        <item>並木: なみき</item> <item>row of trees</item>
+        <item>仮眠: かみん</item> <item>nap</item>
+        <item>反響: はんきょう</item> <item>echo</item>
+        <item>叩く: たたく</item> <item>hit; knock; clap</item>
+        <item>吸う: すう</item> <item>suck</item>
+        <item>坂: さか</item> <item>hill</item>
+        <item>市立: しりつ</item> <item>municipal</item>
+        <item>床: ゆか</item> <item>floor</item>
+        <item>廊下: ろうか</item> <item>corridor</item>
+        <item>散る: ちる</item> <item>scatter</item>
+        <item>暖かい: あたたかい</item> <item>warm</item>
+        <item>桜: さくら</item> <item>cherry tree</item>
+        <item>淡い: あわい</item> <item>pale</item>
+        <item>深夜: しんや</item> <item>late at night</item>
+        <item>独特: どくとく</item> <item>unique</item>
+        <item>甲: こう</item> <item>back of the hand</item>
+        <item>発光: はっこう</item> <item>radiation</item>
+        <item>花びら: はなびら</item> <item>petal</item>
+        <item>足音: あしおと</item> <item>sound of footsteps</item>
+        <item>近づく: ちかづく</item> <item>come closer</item>
+        <item>靴音: くつおと</item> <item>sound of shoes</item>
+        <item>しきりに</item> <item>frequently</item>
+        <item>あわただしい</item> <item>hurried</item>
+        <item>どんどん</item> <item>steadily</item>
+        <item>跳ね起きる: はねおきる</item> <item>spring to one\'s feet</item>
+        <item>ふくらむ</item> <item>expand</item>
+        <item>まぬけ</item> <item>fool</item>
+        <item>半身: はんしん</item> <item>half the body</item>
+        <item>繰り返す: くりかえす</item> <item>repeat</item>
+        <item>苦笑: くしょう</item> <item>wry smile</item>
+        <item>数え切れない: かぞえきれない</item> <item>countless</item>
+        <item>現実: げんじつ</item> <item>reality</item>
+        <item>深夜: しんや</item> <item>late at night</item>
+        <item>荒々しい: あらあらしい</item> <item>rough</item>
+    </string-array>
+</resources>
